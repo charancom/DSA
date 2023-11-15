@@ -1,0 +1,35 @@
+9780133594140, Clean Code A Handbook of Agile Software Craftsmanship, Robert C Martin, Computer Science, 10
+9780321714114, Design Patterns Elements of Reusable Object-Oriented Software, Erich Gamma, Computer Science, 10
+9780201633610, Introduction to Algorithms, Thomas H Cormen, Computer Science, 10
+9780262033848, The Art of Computer Programming, Volume 1 Fundamental Algorithms, Donald E Knuth, 20
+9780596527358, Learning Python, Mark Lutz, Computer Science, 10
+9781449319273, Python Crash Course, Eric Matthes, Computer Science, 10
+9781449362212, Python for Data Analysis, Wes McKinney, Computer Science, 10
+9780596809492, Learning Perl, Randal L Schwartz, Computer Science, 10
+9780596101973, Python Cookbook, David Beazley, Computer Science, 10
+9781593275846, Hacking The Art of Exploitation, Jon Erickson, Computer Science, 10
+9780321146533, The Pragmatic Programmer Your Journey to Mastery, Andrew Hunt, Computer Science, 10
+9780321349606, Refactoring Improving the Design of Existing Code, Martin Fowler, Computer Science, 10
+9780321108959, The Mythical Man-Month Essays on Software Engineering, Frederick P Brooks Jr., Computer Science, 10
+9780596805524, Programming Perl, Tom Christiansen, Computer Science, 10
+9780765385300, Algorithms to Live By The Computer Science of Human Decisions, Brian Christian, Computer Science, 10
+9780066620663, Information Rules A Strategic Guide to the Network Economy, Carl Shapiro, Computer Science, 10
+9780471348454, Cracking the Coding Interview 189 Programming Questions and Solutions, Gayle Laakmann McDowell, Computer Science, 10
+9780132350884, Clean Architecture A Craftsman's Guide to Software Structure and Design, Robert C Martin, Computer Science, 10
+9780262033848, The Art of Computer Programming, Volume 1 Fundamental Algorithms, Donald E Knuth, 20
+9780135197297, Deep Learning, Ian Goodfellow, Yoshua Bengio, 10
+9780262033848, The Art of Computer Programming, Volume 1 Fundamental Algorithms, Donald E Knuth, 20
+9780134757063, Deep Learning for Computer Vision, Rajalingappaa Shanmugamani, Computer Science, 10
+9781449318481, Eloquent JavaScript A Modern Introduction to Programming, Marijn Haverbeke, Computer Science, 10
+9781617291527, Kubernetes in Action, Marko Luk a, Computer Science, 10
+9781491906187, Learning JavaScript Design Patterns, Addy Osmani, Computer Science, 10
+9781118007285, High Performance JavaScript, Nicholas C Zakas, Computer Science, 10
+9780984782857, Think Python How to Think Like a Computer Scientist, Allen B Downey, Computer Science, 10
+9780199567130, Artificial Intelligence A Systems Approach, Michael Negnevitsky, Computer Science, 10
+9780133594140, Clean Code A Handbook of Agile Software Craftsmanship, Robert C Martin, Computer Science, 10
+9780321515264, Introduction to Information Retrieval, Manning, Raghavan, 10
+9780262033831, The Art of Computer Programming, Volume 4A Combinatorial Algorithms, Part 1, 10
+9780387286032, Introduction to the Theory of Computation, Michael Sipser, Computer Science, 10
+9781118745848, JavaScript The Good Parts, Douglas Crockford, Computer Science, 10
+1234567890, HelloQwerty, people, sci-fi, 10
+1234567890, hello, people, Sci-fi, 90
